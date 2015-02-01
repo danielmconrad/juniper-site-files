@@ -1,1 +1,1 @@
-# simple-page
+# Juniper Example Site - Files
